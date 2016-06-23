@@ -1,0 +1,8 @@
+{
+    "name": "xoxco/jquery-tags-input",
+    "type": "library",
+    "description": "Magically convert a simple text input into a cool tag list with this jQuery plugin.",
+    "require": {
+        "components/jquery": ">=1.6"
+    }
+}
